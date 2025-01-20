@@ -1,3 +1,5 @@
+This guide provides step-by-step instructions to build and run the frontend containers using Docker.
+
 1. **Build the Frontend image**:
    ```bash
    docker build -t pokemon-frontend .
